@@ -8,7 +8,7 @@
 
 `git add`
 
-`git log`: 
+`git log`: é utilizado para visualizar o histórico de commits em um repositório Git.
 
 `git commit`
 
